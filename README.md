@@ -1,0 +1,1 @@
+This code is intended to tranform the vocabularies found at https://cgi.vocabs.ga.gov.au/vocab/ into human readable form in an Excel spreadsheet.
