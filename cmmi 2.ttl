@@ -1,0 +1,2611 @@
+PREFIX : <http://resource.geosciml.org/classifier/cgi/cmmi/>
+PREFIX cs: <http://resource.geosciml.org/classifier/cgi/cmmi>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sdo: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+:abyssal-pegmatite-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :pegmatite ;
+    skos:definition "Abyssal pegmatite REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Abyssal pegmatite REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:albitite-hosted-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :alkali-calcic ;
+    skos:definition "Albitite-hosted U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Albitite-hosted U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:algoma-type-banded-iron-formation
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanogenic ;
+    skos:definition "Algoma-type banded iron formation"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Algoma-type banded iron formation"@en ;
+    sdo:additionalType :Type ;
+.
+
+:alkalic-epithermal-au-ag
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :epithermal ;
+    skos:definition "Alkalic epithermal Au ± Ag"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Alkalic epithermal Au ± Ag"@en ;
+    sdo:additionalType :Type ;
+.
+
+:anorthosite-conduit-ni-cu-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :anorthosite-conduit ;
+    skos:definition "Anorthosite conduit Ni-Cu-PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Anorthosite conduit Ni-Cu-PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:anorthosite-massif-ti
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :anorthosite-massif ;
+    skos:definition "Anorthosite massif Ti"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Anorthosite massif Ti"@en ;
+    sdo:additionalType :Type ;
+.
+
+:apatite-intrusion-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :apatite-intrusion ;
+    skos:definition "Apatite intrusion REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Apatite intrusion REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:arc-u-m-intrusion-ni-cu-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-intrusion ;
+    skos:definition "Arc U-M intrusion Ni-Cu-PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Arc U-M intrusion Ni-Cu-PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:arc-u-m-intrusion-ti-v
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-intrusion ;
+    skos:definition "Arc U-M intrusion Ti-V"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Arc U-M intrusion Ti-V"@en ;
+    sdo:additionalType :Type ;
+.
+
+:bauxite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :laterite ;
+    skos:definition "Bauxite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Bauxite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:bimodal-felsic-vms
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanogenic-massive-sulfide-vms ;
+    skos:definition "Bimodal-felsic VMS"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Bimodal-felsic VMS"@en ;
+    sdo:additionalType :Type ;
+.
+
+:bimodal-mafic-vms
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanogenic-massive-sulfide-vms ;
+    skos:definition "Bimodal-mafic VMS"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Bimodal-mafic VMS"@en ;
+    sdo:additionalType :Type ;
+.
+
+:black-shale-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :black-shale ;
+    skos:definition "Black shale Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Black shale Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:black-shale-ni-mo-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :black-shale ;
+    skos:definition "Black shale Ni ± Mo, PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Black shale Ni ± Mo, PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:black-shale-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :black-shale ;
+    skos:definition "Black shale U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Black shale U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:black-shale-v-mo-ni
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :black-shale ;
+    skos:definition "Black shale V ± Mo ± Ni"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Black shale V ± Mo ± Ni"@en ;
+    sdo:additionalType :Type ;
+.
+
+:breccia-pipe-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :breccia-pipe ;
+    skos:definition "Breccia pipe Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Breccia pipe Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:breccia-pipe-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :breccia-pipe ;
+    skos:definition "Breccia pipe Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Breccia pipe Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:breccia-pipe-mo
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :breccia-pipe ;
+    skos:definition "Breccia pipe Mo"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Breccia pipe Mo"@en ;
+    sdo:additionalType :Type ;
+.
+
+:breccia-pipe-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :breccia-pipe ;
+    skos:definition "Breccia pipe REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Breccia pipe REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:calcrete-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :uranium ;
+    skos:definition "Calcrete U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Calcrete U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:carbonate-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :uranium ;
+    skos:definition "Carbonate U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Carbonate U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:carbonatite-laterite-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :laterite ;
+    skos:definition "Carbonatite laterite REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Carbonatite laterite REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:carbonatite-nb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :carbonatite ;
+    skos:definition "Carbonatite Nb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Carbonatite Nb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:carbonatite-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :carbonatite ;
+    skos:definition "Carbonatite REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Carbonatite REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:carlin-type-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :carlin-type ;
+    skos:definition "Carlin-type Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Carlin-type Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:climax-type-porphyry-mo
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :porphyry ;
+    skos:definition "Climax-type porphyry Mo"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Climax-type porphyry Mo"@en ;
+    sdo:additionalType :Type ;
+.
+
+:coalpeatbog-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :uranium ;
+    skos:definition "Coal/peat/bog U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Coal/peat/bog U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:collapse-breccia-pipe-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :collapse-breccia-pipe ;
+    skos:definition "Collapse breccia pipe U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Collapse breccia pipe U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:crust-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :manganese ;
+    skos:definition "Crust Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Crust Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:distal-disseminated-ag-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :distal-disseminated ;
+    skos:definition "Distal-disseminated Ag-Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Distal-disseminated Ag-Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:epithermal-be
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :epithermal ;
+    skos:definition "Epithermal Be"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Epithermal Be"@en ;
+    sdo:additionalType :Type ;
+.
+
+:epithermal-hg
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :epithermal ;
+    skos:definition "Epithermal Hg"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Epithermal Hg"@en ;
+    sdo:additionalType :Type ;
+.
+
+:epithermal-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :epithermal ;
+    skos:definition "Epithermal U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Epithermal U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:epizonal-orogenic-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :orogenic ;
+    skos:definition "Epizonal orogenic Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Epizonal orogenic Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:epizonal-orogenic-hg
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :orogenic ;
+    skos:definition "Epizonal orogenic Hg"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Epizonal orogenic Hg"@en ;
+    sdo:additionalType :Type ;
+.
+
+:epizonal-orogenic-sb-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :orogenic ;
+    skos:definition "Epizonal orogenic Sb ± Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Epizonal orogenic Sb ± Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:exotic-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :exotic ;
+    skos:definition "Exotic Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Exotic Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:felsic-siliciclastic-vms
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanogenic-massive-sulfide-vms ;
+    skos:definition "Felsic-siliciclastic VMS"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Felsic-siliciclastic VMS"@en ;
+    sdo:additionalType :Type ;
+.
+
+:ferroan-carbonate-polymetallic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metasomatic-iron ;
+    skos:definition "Ferroan carbonate polymetallic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Ferroan carbonate polymetallic"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-diamond
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer diamond"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer diamond"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-garnet
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer garnet"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer garnet"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-gemstones
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer gemstones"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer gemstones"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-nb-ta
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer Nb-Ta"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer Nb-Ta"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-sn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer Sn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer Sn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:fluvial-placer-w
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Fluvial placer W"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Fluvial placer W"@en ;
+    sdo:additionalType :Type ;
+.
+
+:greisen-be-li
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :greisen ;
+    skos:definition "Greisen Be ± Li"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Greisen Be ± Li"@en ;
+    sdo:additionalType :Type ;
+.
+
+:greisen-sn-w-mo
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :greisen ;
+    skos:definition "Greisen Sn ± W, Mo"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Greisen Sn ± W, Mo"@en ;
+    sdo:additionalType :Type ;
+.
+
+:greisen-w-mo-bi
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :greisen ;
+    skos:definition "Greisen W-Mo ± Bi"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Greisen W-Mo ± Bi"@en ;
+    sdo:additionalType :Type ;
+.
+
+:heavy-mineral-sands
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Heavy mineral sands"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Heavy mineral sands"@en ;
+    sdo:additionalType :Type ;
+.
+
+:hematite-dominant-ioa
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ioa ;
+    skos:definition "Hematite-dominant IOA"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Hematite-dominant IOA"@en ;
+    sdo:additionalType :Type ;
+.
+
+:hematite-dominant-iocg
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :iocg ;
+    skos:definition "Hematite-dominant IOCG"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Hematite-dominant IOCG"@en ;
+    sdo:additionalType :Type ;
+.
+
+:hs-epithermal-ag-au-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :epithermal ;
+    skos:definition "HS epithermal Ag-Au ± Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "HS epithermal Ag-Au ± Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:hypozonal-orogenic-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :orogenic ;
+    skos:definition "Hypozonal orogenic Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Hypozonal orogenic Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:impact-u-m-intrusion-ni-cu-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-intrusion ;
+    skos:definition "Impact U-M intrusion Ni-Cu-PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Impact U-M intrusion Ni-Cu-PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:ion-adsorption-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :clay ;
+    skos:definition "Ion adsorption REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Ion adsorption REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:irish-type-sediment-hosted-zn-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :sediment-hosted ;
+    skos:definition "Irish-type sediment-hosted Zn-Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Irish-type sediment-hosted Zn-Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:iron-oxide-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metasomatic-iron ;
+    skos:definition "Iron oxide Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Iron oxide Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:iron-oxide-polymetallic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metasomatic-iron ;
+    skos:definition "Iron oxide polymetallic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Iron oxide polymetallic"@en ;
+    sdo:additionalType :Type ;
+.
+
+:iron-oxide-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metasomatic-iron ;
+    skos:definition "Iron oxide U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Iron oxide U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:iron-silicate-polymetallic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metasomatic-iron ;
+    skos:definition "Iron silicate polymetallic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Iron silicate polymetallic"@en ;
+    sdo:additionalType :Type ;
+.
+
+:iron-sulfide-polymetallic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metasomatic-iron ;
+    skos:definition "Iron sulfide polymetallic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Iron sulfide polymetallic"@en ;
+    sdo:additionalType :Type ;
+.
+
+:is-epithermal-ag-au-zn-pb-cu-sn-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :epithermal ;
+    skos:definition "IS epithermal Ag-Au ± Zn, Pb, Cu, Sn, Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "IS epithermal Ag-Au ± Zn, Pb, Cu, Sn, Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:karst-bauxite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :laterite ;
+    skos:definition "Karst bauxite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Karst bauxite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:kimberlite-diamond
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :kimberlite ;
+    skos:definition "Kimberlite diamond"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Kimberlite diamond"@en ;
+    sdo:additionalType :Type ;
+.
+
+:kipushi-type-sediment-hosted-cu-zn-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :sediment-hosted ;
+    skos:definition "Kipushi-type sediment-hosted Cu-Zn-Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Kipushi-type sediment-hosted Cu-Zn-Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:komatiite-ni-cu-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :komatiite ;
+    skos:definition "Komatiite Ni-Cu-PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Komatiite Ni-Cu-PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-brine-li
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :brine ;
+    skos:definition "Lacustrine brine Li"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine brine Li"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-brine-potash
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :brine ;
+    skos:definition "Lacustrine brine potash"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine brine potash"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-clay-li
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :clay ;
+    skos:definition "Lacustrine clay Li"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine clay Li"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-evaporite-borate
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Lacustrine evaporite borate"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine evaporite borate"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-evaporite-carnallite-bischofite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Lacustrine evaporite carnallite-bischofite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine evaporite carnallite-bischofite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-evaporite-magnesite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Lacustrine evaporite magnesite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine evaporite magnesite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-evaporite-nitrate
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Lacustrine evaporite nitrate"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine evaporite nitrate"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-evaporite-potash
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Lacustrine evaporite potash"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine evaporite potash"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-evaporite-salt
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Lacustrine evaporite salt"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine evaporite salt"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-evaporite-trona
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Lacustrine evaporite trona"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine evaporite trona"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-iron-formation
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :iron-formation ;
+    skos:definition "Lacustrine iron formation"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine iron formation"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :manganese ;
+    skos:definition "Lacustrine Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lacustrine-zeolite-li-b
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :zeolite ;
+    skos:definition "Lacustrine zeolite (± Li, B)"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Lacustrine zeolite (± Li, B)"@en ;
+    sdo:additionalType :Type ;
+.
+
+:laterite-magnesite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :laterite ;
+    skos:definition "Laterite magnesite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Laterite magnesite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:laterite-ni
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :laterite ;
+    skos:definition "Laterite Ni"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Laterite Ni"@en ;
+    sdo:additionalType :Type ;
+.
+
+:lct-pegmatite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :pegmatite ;
+    skos:definition "LCT pegmatite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "LCT pegmatite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:low-f-porphyry-mo
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :porphyry ;
+    skos:definition "Low-F porphyry Mo"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Low-F porphyry Mo"@en ;
+    sdo:additionalType :Type ;
+.
+
+:low-fe-alkali-calcic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :alkali-calcic ;
+    skos:definition "Low Fe alkali-calcic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Low Fe alkali-calcic"@en ;
+    sdo:additionalType :Type ;
+.
+
+:ls-epithermal-au-ag
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :epithermal ;
+    skos:definition "LS epithermal Au-Ag"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "LS epithermal Au-Ag"@en ;
+    sdo:additionalType :Type ;
+.
+
+:mafic-siliciclastic-vms
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanogenic-massive-sulfide-vms ;
+    skos:definition "Mafic-siliciclastic VMS"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Mafic-siliciclastic VMS"@en ;
+    sdo:additionalType :Type ;
+.
+
+:mafic-ultramafic-vms
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanogenic-massive-sulfide-vms ;
+    skos:definition "Mafic-ultramafic VMS"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Mafic-ultramafic VMS"@en ;
+    sdo:additionalType :Type ;
+.
+
+:magnetite-dominant-ioa
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ioa ;
+    skos:definition "Magnetite-dominant IOA"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Magnetite-dominant IOA"@en ;
+    sdo:additionalType :Type ;
+.
+
+:magnetite-dominant-iocg
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :iocg ;
+    skos:definition "Magnetite-dominant IOCG"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Magnetite-dominant IOCG"@en ;
+    sdo:additionalType :Type ;
+.
+
+:marine-brine-potash-mg-li-and-others
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :brine ;
+    skos:definition "Marine brine potash ± Mg, Li, and others"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Marine brine potash ± Mg, Li, and others"@en ;
+    sdo:additionalType :Type ;
+.
+
+:marine-evaporite-gypsum
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Marine evaporite gypsum"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Marine evaporite gypsum"@en ;
+    sdo:additionalType :Type ;
+.
+
+:marine-evaporite-magnesite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Marine evaporite magnesite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Marine evaporite magnesite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:marine-evaporite-potash
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Marine evaporite potash"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Marine evaporite potash"@en ;
+    sdo:additionalType :Type ;
+.
+
+:marine-evaporite-salt
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :evaporite ;
+    skos:definition "Marine evaporite salt"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Marine evaporite salt"@en ;
+    sdo:additionalType :Type ;
+.
+
+:mesozonal-orogenic-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :orogenic ;
+    skos:definition "Mesozonal orogenic Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Mesozonal orogenic Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:metamorphic-graphite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metamorphic ;
+    skos:definition "Metamorphic graphite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Metamorphic graphite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:metamorphic-kyanite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metamorphic ;
+    skos:definition "Metamorphic kyanite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Metamorphic kyanite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:mvt-barite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :mississippi-valley-type-mvt ;
+    skos:definition "MVT barite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "MVT barite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:mvt-fluorspar
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :mississippi-valley-type-mvt ;
+    skos:definition "MVT fluorspar"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "MVT fluorspar"@en ;
+    sdo:additionalType :Type ;
+.
+
+:mvt-sr
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :mississippi-valley-type-mvt ;
+    skos:definition "MVT Sr"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "MVT Sr"@en ;
+    sdo:additionalType :Type ;
+.
+
+:mvt-zn-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :mississippi-valley-type-mvt ;
+    skos:definition "MVT Zn-Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "MVT Zn-Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:nodular-magnesite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magnesite ;
+    skos:definition "Nodular magnesite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Nodular magnesite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:nodule-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :manganese ;
+    skos:definition "Nodule Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Nodule Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:non-sulfide-zn-pb-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :non-sulfide ;
+    skos:definition "Non-sulfide Zn-Pb ± Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Non-sulfide Zn-Pb ± Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:nyf-pegmatite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :pegmatite ;
+    skos:definition "NYF pegmatite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "NYF pegmatite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:oolitic-iron-formation
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :iron-formation ;
+    skos:definition "Oolitic iron formation"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Oolitic iron formation"@en ;
+    sdo:additionalType :Type ;
+.
+
+:ophiolite-cr
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ophiolite ;
+    skos:definition "Ophiolite Cr"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Ophiolite Cr"@en ;
+    sdo:additionalType :Type ;
+.
+
+:ophiolite-ni-cu-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ophiolite ;
+    skos:definition "Ophiolite Ni-Cu-PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Ophiolite Ni-Cu-PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:orogenic-ag-pb-zn-cu-sb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :orogenic ;
+    skos:definition "Orogenic Ag-Pb-Zn-Cu-Sb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Orogenic Ag-Pb-Zn-Cu-Sb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:orogenic-cu-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :orogenic ;
+    skos:definition "Orogenic Cu ± Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Orogenic Cu ± Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:orogenic-graphite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :orogenic ;
+    skos:definition "Orogenic graphite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Orogenic graphite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:oxidized-intrusion-related-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :intrusion-related ;
+    skos:definition "Oxidized intrusion-related Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Oxidized intrusion-related Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:paleochannel-fe
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :paleochannel ;
+    skos:definition "Paleochannel Fe"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Paleochannel Fe"@en ;
+    sdo:additionalType :Type ;
+.
+
+:paleoplacer-au-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Paleoplacer Au ± U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Paleoplacer Au ± U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:paleoplacer-heavy-mineral-sands
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Paleoplacer heavy mineral sands"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Paleoplacer heavy mineral sands"@en ;
+    sdo:additionalType :Type ;
+.
+
+:paleoplacer-sn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Paleoplacer Sn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Paleoplacer Sn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:peralkaline-igneous-hfse-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :peralkaline-igneous ;
+    skos:definition "Peralkaline igneous HFSE-REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Peralkaline igneous HFSE-REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:porphyry-au-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :porphyry ;
+    skos:definition "Porphyry Au ± Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Porphyry Au ± Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:porphyry-cu-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :porphyry ;
+    skos:definition "Porphyry Cu ± Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Porphyry Cu ± Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:porphyry-cu-mo
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :porphyry ;
+    skos:definition "Porphyry Cu-Mo"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Porphyry Cu-Mo"@en ;
+    sdo:additionalType :Type ;
+.
+
+:porphyry-sn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :porphyry ;
+    skos:definition "Porphyry Sn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Porphyry Sn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:porphyry-w
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :porphyry ;
+    skos:definition "Porphyry W"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Porphyry W"@en ;
+    sdo:additionalType :Type ;
+.
+
+:reduced-intrusion-related-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :intrusion-related ;
+    skos:definition "Reduced intrusion-related Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Reduced intrusion-related Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:replacement-au-ag
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :replacement ;
+    skos:definition "Replacement Au-Ag"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement Au-Ag"@en ;
+    sdo:additionalType :Type ;
+.
+
+:replacement-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :replacement ;
+    skos:definition "Replacement Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:replacement-fluorite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :replacement ;
+    skos:definition "Replacement fluorite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement fluorite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:replacement-mg
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :replacement ;
+    skos:definition "Replacement Mg"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement Mg"@en ;
+    sdo:additionalType :Type ;
+.
+
+:replacement-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :replacement ;
+    skos:definition "Replacement Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:replacement-polymetallic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :replacement ;
+    skos:definition "Replacement polymetallic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement polymetallic"@en ;
+    sdo:additionalType :Type ;
+.
+
+:replacement-sn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :replacement ;
+    skos:definition "Replacement Sn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement Sn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:replacement-zn-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :replacement ;
+    skos:definition "Replacement Zn-Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement Zn-Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:residual-clay
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :clay ;
+    skos:definition "Residual clay"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Residual clay"@en ;
+    sdo:additionalType :Type ;
+.
+
+:residual-placer-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Residual placer Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Residual placer Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:residual-placer-sn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Residual placer Sn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Residual placer Sn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:sandstone-hosted-zn-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :mississippi-valley-type-mvt ;
+    skos:definition "Sandstone-hosted Zn-Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Sandstone-hosted Zn-Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:sandstone-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :uranium ;
+    skos:definition "Sandstone U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Sandstone U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:sediment-hosted-cu-co
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :sediment-hosted ;
+    skos:definition "Sediment-hosted Cu ± Co"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Sediment-hosted Cu ± Co"@en ;
+    sdo:additionalType :Type ;
+.
+
+:sedimentary-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :manganese ;
+    skos:definition "Sedimentary Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Sedimentary Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:shoreline-placer-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :placer ;
+    skos:definition "Shoreline placer Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Shoreline placer Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:siliciclastic-carbonate-zn-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :sediment-hosted ;
+    skos:definition "Siliciclastic-carbonate Zn-Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Siliciclastic-carbonate Zn-Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:siliciclastic-mafic-barite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :sediment-hosted ;
+    skos:definition "Siliciclastic-mafic barite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Siliciclastic-mafic barite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:siliciclastic-mafic-zn-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :sediment-hosted ;
+    skos:definition "Siliciclastic-mafic Zn-Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Siliciclastic-mafic Zn-Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:simple-pegmatite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :pegmatite ;
+    skos:definition "Simple pegmatite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Simple pegmatite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-au-cu-w
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :skarn ;
+    skos:definition "Skarn Au ± Cu ± W"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn Au ± Cu ± W"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-be-fluorite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :skarn ;
+    skos:definition "Skarn Be-fluorite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn Be-fluorite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :skarn ;
+    skos:definition "Skarn Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-fe
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader
+        :metasomatic-iron ,
+        :skarn ;
+    skos:definition "Skarn Fe"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn Fe"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-mo
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :skarn ;
+    skos:definition "Skarn Mo"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn Mo"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-sn-cu-mo
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :skarn ;
+    skos:definition "Skarn Sn ± Cu ± Mo"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn Sn ± Cu ± Mo"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-u-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :skarn ;
+    skos:definition "Skarn U-REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn U-REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-w-mo
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :skarn ;
+    skos:definition "Skarn W ± Mo"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn W ± Mo"@en ;
+    sdo:additionalType :Type ;
+.
+
+:skarn-zn-pb-ag
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :skarn ;
+    skos:definition "Skarn Zn-Pb-Ag"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn Zn-Pb-Ag"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-ag
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene Ag"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene Ag"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-au
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene Au"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene Au"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-fe
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene Fe"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene Fe"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-pb
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene Pb"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene Pb"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-v
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene V"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene V"@en ;
+    sdo:additionalType :Type ;
+.
+
+:supergene-zn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene Zn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene Zn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:superior-type-banded-iron-formation
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :iron-formation ;
+    skos:definition "Superior-type banded iron formation"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Superior-type banded iron formation"@en ;
+    sdo:additionalType :Type ;
+.
+
+:superior-type-banded-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :manganese ;
+    skos:definition "Superior-type banded Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Superior-type banded Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:u-m-conduit-ni-cu-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-conduit ;
+    skos:definition "U-M conduit Ni-Cu-PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "U-M conduit Ni-Cu-PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:u-m-intrusion-ni-cu-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-intrusion ;
+    skos:definition "U-M intrusion Ni-Cu-PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "U-M intrusion Ni-Cu-PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:u-m-layered-intrusion-cr
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-layered-intrusion ;
+    skos:definition "U-M layered intrusion Cr"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "U-M layered intrusion Cr"@en ;
+    sdo:additionalType :Type ;
+.
+
+:u-m-layered-intrusion-fe-ti-v
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-layered-intrusion ;
+    skos:definition "U-M layered intrusion Fe-Ti-V"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "U-M layered intrusion Fe-Ti-V"@en ;
+    sdo:additionalType :Type ;
+.
+
+:u-m-layered-intrusion-ni-cu-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-layered-intrusion ;
+    skos:definition "U-M layered intrusion Ni-Cu-PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "U-M layered intrusion Ni-Cu-PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:u-m-layered-intrusion-pge
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :ultramafic-and-or-mafic-layered-intrusion ;
+    skos:definition "U-M layered intrusion PGE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "U-M layered intrusion PGE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:unconformity-related-ree
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :unconformity-related ;
+    skos:definition "Unconformity-related REE"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Unconformity-related REE"@en ;
+    sdo:additionalType :Type ;
+.
+
+:unconformity-related-u
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :unconformity-related ;
+    skos:definition "Unconformity-related U"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Unconformity-related U"@en ;
+    sdo:additionalType :Type ;
+.
+
+:underclay-overclay
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :clay ;
+    skos:definition "Underclay, overclay"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Underclay, overclay"@en ;
+    sdo:additionalType :Type ;
+.
+
+:unknown-type
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :unknown-group ;
+    skos:definition "unknown type"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "unknown type"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-co-ni
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :vein ;
+    skos:definition "Vein Co ± Ni"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein Co ± Ni"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :vein ;
+    skos:definition "Vein Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-five-element
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :five-element ;
+    skos:definition "Vein five-element"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein five-element"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-fluorite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :vein ;
+    skos:definition "Vein fluorite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein fluorite"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-polymetallic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :vein ;
+    skos:definition "Vein polymetallic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein polymetallic"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-replacement-ni
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :vein ;
+    skos:definition "Vein ± replacement Ni"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein ± replacement Ni"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-sn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :vein ;
+    skos:definition "Vein Sn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein Sn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-sn-polymetallic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :vein ;
+    skos:definition "Vein Sn polymetallic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein Sn polymetallic"@en ;
+    sdo:additionalType :Type ;
+.
+
+:vein-w
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :vein ;
+    skos:definition "Vein W"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein W"@en ;
+    sdo:additionalType :Type ;
+.
+
+:volcanic-hosted-cu
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanic-hosted ;
+    skos:definition "Volcanic-hosted Cu"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Volcanic-hosted Cu"@en ;
+    sdo:additionalType :Type ;
+.
+
+:volcanogenic-mn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanogenic ;
+    skos:definition "Volcanogenic Mn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Volcanogenic Mn"@en ;
+    sdo:additionalType :Type ;
+.
+
+:anorthosite-conduit
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Anorthosite conduit"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Anorthosite conduit"@en ;
+    sdo:additionalType :Group ;
+.
+
+:anorthosite-massif
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Anorthosite massif"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Anorthosite massif"@en ;
+    sdo:additionalType :Group ;
+.
+
+:apatite-intrusion
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Apatite intrusion"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Apatite intrusion"@en ;
+    sdo:additionalType :Group ;
+.
+
+:apatite-nepheline-titanite-intrusion
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader
+        :apatite-nepheline-titanite-intrusion ,
+        :magmatic ;
+    skos:definition "Apatite-nepheline-titanite intrusion"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Apatite-nepheline-titanite intrusion"@en ;
+    sdo:additionalType
+        :Group ,
+        :Type ;
+.
+
+:carlin-type
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Carlin-type"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Carlin-type"@en ;
+    sdo:additionalType :Group ;
+.
+
+:collapse-breccia-pipe
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-hydrothermal ;
+    skos:definition "Collapse breccia pipe"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Collapse breccia pipe"@en ;
+    sdo:additionalType :Group ;
+.
+
+:distal-disseminated
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Distal-disseminated"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Distal-disseminated"@en ;
+    sdo:additionalType :Group ;
+.
+
+:exotic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :infiltrational ;
+    skos:definition "Exotic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Exotic"@en ;
+    sdo:additionalType :Group ;
+.
+
+:five-element
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-hydrothermal ;
+    skos:definition "Five-element"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Five-element"@en ;
+    sdo:additionalType :Group ;
+.
+
+:kimberlite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Kimberlite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Kimberlite"@en ;
+    sdo:additionalType :Group ;
+.
+
+:komatiite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Komatiite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Komatiite"@en ;
+    sdo:additionalType :Group ;
+.
+
+:magnesite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader
+        :basin-chemical ,
+        :infiltrational ;
+    skos:definition "Magnesite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Magnesite"@en ;
+    sdo:additionalType :Group ;
+.
+
+:non-sulfide
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-hydrothermal ;
+    skos:definition "Non-sulfide"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Non-sulfide"@en ;
+    sdo:additionalType :Group ;
+.
+
+:paleochannel
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :infiltrational ;
+    skos:definition "Paleochannel"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Paleochannel"@en ;
+    sdo:additionalType :Group ;
+.
+
+:peralkaline-igneous
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Peralkaline igneous"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Peralkaline igneous"@en ;
+    sdo:additionalType :Group ;
+.
+
+:phosphorite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader
+        :basin-chemical ,
+        :phosphorite ;
+    skos:definition "Phosphorite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Phosphorite"@en ;
+    sdo:additionalType
+        :Group ,
+        :Type ;
+.
+
+:ultramafic-and-or-mafic-conduit
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Ultramafic and (or) mafic conduit"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Ultramafic and (or) mafic conduit"@en ;
+    sdo:additionalType :Group ;
+.
+
+:unknown-group
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :unknown-environment ;
+    skos:definition "unknown group"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "unknown group"@en ;
+    sdo:additionalType :Group ;
+.
+
+:volcanic-hosted
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanic-basin-hydrothermal ;
+    skos:definition "Volcanic-hosted"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Volcanic-hosted"@en ;
+    sdo:additionalType :Group ;
+.
+
+:zeolite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-evaporative ;
+    skos:definition "Zeolite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Zeolite"@en ;
+    sdo:additionalType :Group ;
+.
+
+<https://linked.dat.gov.au/org/cgi>
+    a sdo:Organization ;
+    sdo:name "Commission for Geoscience Information" ;
+    sdo:url "https://cgi-iugs.org"^^xsd:anyURI ;
+.
+
+<https://linked.dat.gov.au/org/ga>
+    a sdo:Organization ;
+    sdo:name "Geoscience Australia" ;
+    sdo:url "https://www.ga.gov.au"^^xsd:anyURI ;
+.
+
+:alkali-calcic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :regional-metasomatic ;
+    skos:definition "Alkali-calcic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Alkali-calcic"@en ;
+    sdo:additionalType :Group ;
+.
+
+:carbonatite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Carbonatite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Carbonatite"@en ;
+    sdo:additionalType :Group ;
+.
+
+:erosional
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Erosional"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Erosional"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:intrusion-related
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Intrusion-related"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Intrusion-related"@en ;
+    sdo:additionalType :Group ;
+.
+
+:ioa
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :regional-metasomatic ;
+    skos:definition "IOA"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "IOA"@en ;
+    sdo:additionalType :Group ;
+.
+
+:iocg
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :regional-metasomatic ;
+    skos:definition "IOCG"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "IOCG"@en ;
+    sdo:additionalType :Group ;
+.
+
+:metamorphic-hydrothermal
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Metamorphic hydrothermal"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Metamorphic hydrothermal"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:ophiolite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Ophiolite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Ophiolite"@en ;
+    sdo:additionalType :Group ;
+.
+
+:unconformity-related
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-hydrothermal ;
+    skos:definition "Unconformity-related"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Unconformity-related"@en ;
+    sdo:additionalType :Group ;
+.
+
+:unknown-environment
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "unknown environment"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "unknown environment"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:volcanogenic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanic-basin-hydrothermal ;
+    skos:definition "Volcanogenic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Volcanogenic"@en ;
+    sdo:additionalType :Group ;
+.
+
+:brine
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-evaporative ;
+    skos:definition "Brine"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Brine"@en ;
+    sdo:additionalType :Group ;
+.
+
+:greisen
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Greisen"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Greisen"@en ;
+    sdo:additionalType :Group ;
+.
+
+:iron-formation
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-chemical ;
+    skos:definition "Iron formation"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Iron formation"@en ;
+    sdo:additionalType :Group ;
+.
+
+:black-shale
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-chemical ;
+    skos:definition "Black shale"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Black shale"@en ;
+    sdo:additionalType :Group ;
+.
+
+:breccia-pipe
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Breccia pipe"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Breccia pipe"@en ;
+    sdo:additionalType :Group ;
+.
+
+:clay
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader
+        :basin-evaporative ,
+        :supergene ;
+    skos:definition "Clay"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Clay"@en ;
+    sdo:additionalType :Group ;
+.
+
+:metamorphic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metamorphic ;
+    skos:definition "Metamorphic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Metamorphic"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType
+        :Environment ,
+        :Group ;
+.
+
+:pegmatite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Pegmatite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Pegmatite"@en ;
+    sdo:additionalType :Group ;
+.
+
+:ultramafic-and-or-mafic-intrusion
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Ultramafic and (or) mafic intrusion"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Ultramafic and (or) mafic intrusion"@en ;
+    sdo:additionalType :Group ;
+.
+
+:ultramafic-and-or-mafic-layered-intrusion
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic ;
+    skos:definition "Ultramafic and (or) mafic-layered intrusion"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Ultramafic and (or) mafic-layered intrusion"@en ;
+    sdo:additionalType :Group ;
+.
+
+:uranium
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :infiltrational ;
+    skos:definition "Uranium"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Uranium"@en ;
+    sdo:additionalType :Group ;
+.
+
+:volcanic-basin-hydrothermal
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Volcanic basin hydrothermal"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Volcanic basin hydrothermal"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:basin-evaporative
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Basin evaporative"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Basin evaporative"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:infiltrational
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Infiltrational"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Infiltrational"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:laterite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Laterite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Laterite"@en ;
+    sdo:additionalType :Group ;
+.
+
+:manganese
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-chemical ;
+    skos:definition "Manganese"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Manganese"@en ;
+    sdo:additionalType :Group ;
+.
+
+:mississippi-valley-type-mvt
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-hydrothermal ;
+    skos:definition "Mississippi Valley-type (MVT)"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Mississippi Valley-type (MVT)"@en ;
+    sdo:additionalType :Group ;
+.
+
+:regional-metasomatic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Regional metasomatic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Regional metasomatic"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:volcanogenic-massive-sulfide-vms
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :volcanic-basin-hydrothermal ;
+    skos:definition "Volcanogenic massive sulfide (VMS)"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Volcanogenic massive sulfide (VMS)"@en ;
+    sdo:additionalType :Group ;
+.
+
+:basin-chemical
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Basin chemical"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Basin chemical"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:sediment-hosted
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-hydrothermal ;
+    skos:definition "Sediment-hosted"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Sediment-hosted"@en ;
+    sdo:additionalType :Group ;
+.
+
+:basin-hydrothermal
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Basin hydrothermal"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Basin hydrothermal"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:epithermal
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Epithermal"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Epithermal"@en ;
+    sdo:additionalType :Group ;
+.
+
+:metasomatic-iron
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :regional-metasomatic ;
+    skos:definition "Metasomatic iron"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Metasomatic iron"@en ;
+    sdo:additionalType :Group ;
+.
+
+:porphyry
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Porphyry"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Porphyry"@en ;
+    sdo:additionalType :Group ;
+.
+
+:orogenic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :metamorphic-hydrothermal ;
+    skos:definition "Orogenic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Orogenic"@en ;
+    sdo:additionalType :Group ;
+.
+
+:replacement
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Replacement"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replacement"@en ;
+    sdo:additionalType :Group ;
+.
+
+:vein
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Vein"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vein"@en ;
+    sdo:additionalType :Group ;
+.
+
+:skarn
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :magmatic-hydrothermal ;
+    skos:definition "Skarn"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Skarn"@en ;
+    sdo:additionalType :Group ;
+.
+
+:evaporite
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :basin-evaporative ;
+    skos:definition "Evaporite"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Evaporite"@en ;
+    sdo:additionalType :Group ;
+.
+
+:magmatic-hydrothermal
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Magmatic hydrothermal"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Magmatic hydrothermal"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:Environment
+    a owl:Class ;
+    sdo:name "Mineral Environment" ;
+.
+
+:supergene
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :supergene ;
+    skos:definition "Supergene"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Supergene"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType
+        :Environment ,
+        :Group ;
+.
+
+:magmatic
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "Magmatic"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Magmatic"@en ;
+    skos:topConceptOf cs: ;
+    sdo:additionalType :Environment ;
+.
+
+:placer
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:broader :erosional ;
+    skos:definition "Placer"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Placer"@en ;
+    sdo:additionalType :Group ;
+.
+
+:Group
+    a owl:Class ;
+    sdo:name "Mineral Group" ;
+.
+
+:Type
+    a owl:Class ;
+    sdo:name "Mineral Type" ;
+.
+
+cs:
+    a skos:ConceptScheme ;
+    skos:definition "Minerals and groups of them from the Critical Mineral Mapping Initiative project"@en ;
+    skos:hasTopConcept
+        :basin-chemical ,
+        :basin-evaporative ,
+        :basin-hydrothermal ,
+        :erosional ,
+        :infiltrational ,
+        :magmatic ,
+        :magmatic-hydrothermal ,
+        :metamorphic ,
+        :metamorphic-hydrothermal ,
+        :regional-metasomatic ,
+        :supergene ,
+        :unknown-environment ,
+        :volcanic-basin-hydrothermal ;
+    skos:historyNote "Taken from Geoscience Australia's internal database, November 2023" ;
+    skos:prefLabel "Deposit Model Minerals"@en ;
+    sdo:copyrightNotice "(c) Commission for Geoscience Information, 2023" ;
+    sdo:creator <https://linked.dat.gov.au/org/ga> ;
+    sdo:dateCreated "2022-06-30"^^xsd:date ;
+    sdo:dateModified "2023-11-11"^^xsd:date ;
+    sdo:license <https://purl.org/NET/rdflicense/cc-by4.0> ;
+    sdo:publisher <https://linked.dat.gov.au/org/cgi> ;
+.

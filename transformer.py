@@ -7,6 +7,7 @@ from rdflib import Graph, URIRef
 import pandas as pd
 import functools
 
+
 LocalHierarchyKey = URIRef('http://resource.geosciml.org/datatype/LocalHierarchyKey')
 AbbreviatedLabel = URIRef('http://resource.geosciml.org/datatype/AbbreviatedLabel')
 
